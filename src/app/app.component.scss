@@ -39,12 +39,13 @@
         background-color: rgba($color: #5b91f7, $alpha: 0.7);
         padding: 0;
         box-shadow: 0px 0px 20px 3px #a19c9c;
-        margin: 10px;
+        margin: 10px auto;
         display: flex;
         text-decoration: none;
         -webkit-border-radius: 30px;
         border-radius: 30px;
         border: 3px solid #2977acd2;
+        width: 75%;
         .social-link {
           display: flex;
           align-items: center;
@@ -58,7 +59,7 @@
             }
           }
           .right-item {
-            margin-left: 40px;
+            margin-left: 20px;
             margin-top: 10px;
             p {
               font-weight: 900;
