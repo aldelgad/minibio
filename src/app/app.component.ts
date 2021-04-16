@@ -28,7 +28,7 @@ export class AppComponent {
       text: 'Discord',
       link: 'https://discord.gg/vf9cM7stBG'
     }
-  ]
+  ];
 
   imagesGallery = [
     {
@@ -43,5 +43,5 @@ export class AppComponent {
     {
       img: '../assets/images/warrior.jpg'
     }
-  ]
+  ];
 }
